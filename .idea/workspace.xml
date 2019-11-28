@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76fdd536-57a8-4780-8879-3b2eee13aebd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/array/ArrayPush.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1088">
+              <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DI/face/Board.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DI/Comboard.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="64">
+                <caret line="2" selection-start-line="2" selection-end-line="2" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fbaSearch</find>
+      <find>getLinesFromFile</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/array/ArrayPush.php" />
+        <option value="$PROJECT_DIR$/DI/Interface.php" />
+        <option value="$PROJECT_DIR$/DI/Interface/Board.php" />
+        <option value="$PROJECT_DIR$/DI/interface/Board.php" />
+        <option value="$PROJECT_DIR$/DI/face/Board.php" />
+        <option value="$PROJECT_DIR$/DI/Comboard.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="y" value="2" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectId" id="1TsKA4pczQwrrnefJAnz6diVEyg" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OL-1.0.0" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="net.vektah.codeglance.config.ConfigEntry" />
+    <property name="settings.editor.splitter.proportion" value="0.37300178" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PHPstudy\PHPTutorial\WWW\test\DI\Interface" />
+      <recent name="D:\PHPstudy\PHPTutorial\WWW\test\mergeAndSlip" />
+      <recent name="D:\PHPstudy\PHPTutorial\WWW\test\homeWorl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PHPstudy\PHPTutorial\WWW\test\mergeAndSlip" />
+      <recent name="D:\PHPstudy\PHPTutorial\WWW\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76fdd536-57a8-4780-8879-3b2eee13aebd" name="Default Changelist" comment="" />
+      <created>1553222301984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553222301984</updated>
+      <workItem from="1553222303148" duration="1403000" />
+      <workItem from="1553256600335" duration="753000" />
+      <workItem from="1553303079961" duration="43000" />
+      <workItem from="1553307101906" duration="7857000" />
+      <workItem from="1553337429507" duration="434000" />
+      <workItem from="1553337979193" duration="429000" />
+      <workItem from="1553495194073" duration="147000" />
+      <workItem from="1553503000897" duration="5150000" />
+      <workItem from="1553677105027" duration="2703000" />
+      <workItem from="1553733801564" duration="670000" />
+      <workItem from="1554109590444" duration="2515000" />
+      <workItem from="1554205007677" duration="3578000" />
+      <workItem from="1554713986750" duration="2080000" />
+      <workItem from="1554771046251" duration="2180000" />
+      <workItem from="1554784647082" duration="420000" />
+      <workItem from="1554785082192" duration="184000" />
+      <workItem from="1554785283917" duration="1448000" />
+      <workItem from="1554857662835" duration="2073000" />
+      <workItem from="1554944129846" duration="3772000" />
+      <workItem from="1555030723684" duration="1221000" />
+      <workItem from="1555037443159" duration="7135000" />
+      <workItem from="1555117213352" duration="1190000" />
+      <workItem from="1555118585539" duration="599000" />
+      <workItem from="1555287371237" duration="14000" />
+      <workItem from="1555382481136" duration="2714000" />
+      <workItem from="1555395044297" duration="5769000" />
+      <workItem from="1555463124284" duration="606000" />
+      <workItem from="1555492097845" duration="985000" />
+      <workItem from="1555548569811" duration="623000" />
+      <workItem from="1555551919434" duration="9000" />
+      <workItem from="1555658254566" duration="2049000" />
+      <workItem from="1555722205712" duration="4435000" />
+      <workItem from="1555895014656" duration="50000" />
+      <workItem from="1561452620623" duration="6004000" />
+      <workItem from="1563519489947" duration="101000" />
+      <workItem from="1565946089553" duration="2258000" />
+      <workItem from="1566175508694" duration="600000" />
+      <workItem from="1566349258506" duration="3545000" />
+      <workItem from="1566521130045" duration="2191000" />
+      <workItem from="1566607436778" duration="1677000" />
+      <workItem from="1573105794692" duration="6009000" />
+      <workItem from="1574156299464" duration="1866000" />
+      <workItem from="1574229410435" duration="3849000" />
+      <workItem from="1574234487358" duration="85000" />
+      <workItem from="1574234590202" duration="349000" />
+      <workItem from="1574234955001" duration="6414000" />
+      <workItem from="1574243218296" duration="366000" />
+      <workItem from="1574243611891" duration="974000" />
+      <workItem from="1574299292934" duration="111000" />
+      <workItem from="1574299414784" duration="1312000" />
+      <workItem from="1574304956879" duration="657000" />
+      <workItem from="1574305652570" duration="3489000" />
+      <workItem from="1574755057647" duration="1521000" />
+      <workItem from="1574817595241" duration="1198000" />
+      <workItem from="1574913269725" duration="3757000" />
+      <workItem from="1574931368798" duration="650000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10615000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="2" width="1936" height="1056" extended-state="1" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17537314" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.18973215" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/array/ArrayPush.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DI/face/Board.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DI/Comboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mergeAndSlip/account_operation_analysis.sql">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="64">
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
