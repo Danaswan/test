@@ -23,19 +23,53 @@
         <entry file="file://$PROJECT_DIR$/HomeWork/FirstPrepare/预习.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="480">
-                <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <first_editor relative-caret-position="704">
+                <caret line="156" column="5" lean-forward="true" selection-start-line="156" selection-start-column="5" selection-end-line="156" selection-end-column="5" />
+                <folding>
+                  <element signature="e#22#35#0" />
+                  <element signature="e#132#142#0" />
+                  <element signature="e#1303#1324#0" />
+                  <element signature="e#1659#1669#0" />
+                  <element signature="e#2791#2804#0" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWork/FirstPrepare/array_push.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="41" column="17" lean-forward="true" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/regular.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HomeWork/FirstPrepare/variableScope.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state relative-caret-position="2144">
+              <caret line="72" column="26" lean-forward="true" selection-start-line="72" selection-start-column="26" selection-end-line="72" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWork/FirstPrepare/reference.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -65,8 +99,11 @@
         <option value="$PROJECT_DIR$/DI/face/Board.php" />
         <option value="$PROJECT_DIR$/DI/Comboard.php" />
         <option value="$PROJECT_DIR$/HomeWork/FirstPrepare/content.php" />
-        <option value="$PROJECT_DIR$/HomeWork/FirstPrepare/预习.md" />
         <option value="$PROJECT_DIR$/HomeWork/FirstPrepare/variableScope.php" />
+        <option value="$PROJECT_DIR$/HomeWork/FirstPrepare/reference.php" />
+        <option value="$PROJECT_DIR$/HomeWork/FirstPrepare/预习.md" />
+        <option value="$PROJECT_DIR$/HomeWork/FirstPrepare/array_push.php" />
+        <option value="$PROJECT_DIR$/regular.php" />
       </list>
     </option>
   </component>
@@ -77,7 +114,7 @@
     <auto-save>true</auto-save>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-5" />
     <option name="y" value="33" />
     <option name="width" value="1936" />
@@ -95,17 +132,6 @@
             <path>
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstPrepare" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -217,18 +243,20 @@
       <workItem from="1574931368798" duration="2447000" />
       <workItem from="1574989685762" duration="5768000" />
       <workItem from="1575076864434" duration="2827000" />
-      <workItem from="1575100103686" duration="2464000" />
+      <workItem from="1575100103686" duration="2754000" />
+      <workItem from="1575431126603" duration="11518000" />
+      <workItem from="1575516629326" duration="291000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23471000" />
+    <option name="totallyTimeSpent" value="35570000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18017058" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15724947" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -240,8 +268,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.28013393" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2622768" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -302,8 +331,15 @@
     <entry file="file://$PROJECT_DIR$/HomeWork/FirstPrepare/预习.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="480">
-            <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <first_editor relative-caret-position="704">
+            <caret line="156" column="5" lean-forward="true" selection-start-line="156" selection-start-column="5" selection-end-line="156" selection-end-column="5" />
+            <folding>
+              <element signature="e#22#35#0" />
+              <element signature="e#132#142#0" />
+              <element signature="e#1303#1324#0" />
+              <element signature="e#1659#1669#0" />
+              <element signature="e#2791#2804#0" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -311,8 +347,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HomeWork/FirstPrepare/variableScope.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        <state relative-caret-position="2144">
+          <caret line="72" column="26" lean-forward="true" selection-start-line="72" selection-start-column="26" selection-end-line="72" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/FirstPrepare/reference.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/FirstPrepare/array_push.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="41" column="17" lean-forward="true" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/regular.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
         </state>
       </provider>
     </entry>
