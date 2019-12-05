@@ -13,6 +13,7 @@ class Arr {
      * @param  string  $key
      * @param  mixed   $default
      * @return mixed
+     * 测试
      */
     public  function get($array, $key, $default = null)
     {
