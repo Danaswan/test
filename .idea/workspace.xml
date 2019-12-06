@@ -13,18 +13,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/array/ArrayPush.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="416">
+              <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algo/day_one.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-192" />
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algo/queue.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HomeWork/FirstPrepare/预习.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="352">
-                <caret line="181" column="7" lean-forward="true" selection-start-line="181" selection-start-column="7" selection-end-line="181" selection-end-column="7" />
+              <first_editor relative-caret-position="6016">
+                <caret line="188" column="10" selection-start-line="188" selection-start-column="10" selection-end-line="188" selection-end-column="10" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -82,6 +98,7 @@
     <findStrings>
       <find>fbaSearch</find>
       <find>getLinesFromFile</find>
+      <find>局部函数调用全局变量的方</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -99,6 +116,7 @@
         <option value="$PROJECT_DIR$/HomeWork/FirstPrepare/array_push.php" />
         <option value="$PROJECT_DIR$/regular.php" />
         <option value="$PROJECT_DIR$/HomeWork/FirstPrepare/预习.md" />
+        <option value="$PROJECT_DIR$/algo/queue.php" />
       </list>
     </option>
   </component>
@@ -110,8 +128,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="-19" />
+    <option name="y" value="121" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -129,6 +147,11 @@
             <path>
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="algo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -246,17 +269,19 @@
       <workItem from="1575537002410" duration="1679000" />
       <workItem from="1575538702022" duration="143000" />
       <workItem from="1575538862717" duration="609000" />
+      <workItem from="1575539487891" duration="717000" />
+      <workItem from="1575616582033" duration="787000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46308000" />
+    <option name="totallyTimeSpent" value="47812000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16364606" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16684435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -268,15 +293,15 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.23325893" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.22209822" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="11" />
       <window_info anchor="bottom" id="GitLabIntegration" order="12" />
-      <window_info anchor="right" id="PlantUML" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="PlantUML" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,8 +350,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/array/ArrayPush.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="416">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/FirstPrepare/预习.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="6016">
+            <caret line="188" column="10" selection-start-line="188" selection-start-column="10" selection-end-line="188" selection-end-column="10" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="204" selection-start-line="204" selection-end-line="204" />
         </state>
       </provider>
     </entry>
@@ -358,20 +400,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWork/FirstPrepare/预习.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="352">
-            <caret line="181" column="7" lean-forward="true" selection-start-line="181" selection-start-column="7" selection-end-line="181" selection-end-column="7" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
+    <entry file="file://$PROJECT_DIR$/algo/day_one.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-192" />
       </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="204" selection-start-line="204" selection-end-line="204" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo/queue.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
